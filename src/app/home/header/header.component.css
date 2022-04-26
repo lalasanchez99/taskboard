@@ -1,0 +1,10 @@
+.spacer {
+    flex: 1 1 auto;
+  }
+  a{
+      color: aliceblue;
+      text-decoration: none;
+  }
+  ul{
+      padding-top: 10px;
+  }
